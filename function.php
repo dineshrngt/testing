@@ -1394,11 +1394,7 @@ working files : admin_model-> stuDetExport
 	
 	
 	
-	<p> welcome </p>
-	<p> 123welcome </p>
-	<p> 1234welcome </p>
-	<p> 12345welcome </p>
-	<p> 123456welcome </p>
+	
 	<p> 1234567welcome </p>
 	<p> 12345678welcome </p>
 	
